@@ -1,4 +1,4 @@
-# Desafios APIbanco
+# Desafio APIbanco
 ### Feito com JavaScript
 <p>
 Bom dia, aqui estão o repo referente a ativididade API Agregadora de Contas, os códigos estão em JS, foram feias algumas configurações e installs para rodar 100% a API, abaixo algumas instruções sobre o código.
