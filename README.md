@@ -35,7 +35,7 @@ npx sequelize-cli migration:generate --name create-transaction
 npx sequelize-cli model:generate --name Transaction --attributes account_id:integer,type:enum:{deposit,withdraw},amount:decimal>
 
 ```
-🏦 **Após cada migration criada, eu realizava o migrate, criando assim nas tabelas do banco de dados, Lembre do banco de dados estar configurado 100%,
+🏦 **Após cada migration criada, eu realizava o migrate, criando assim nas tabelas do banco de dados, Lembre-se do banco de dados estar configurado 100%,
 foi feito desta forma para que funcione tanto em bancos locais como Web:** 
   
   ```javascript
